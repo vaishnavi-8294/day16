@@ -1,0 +1,22 @@
+
+body{
+    text-align: center;
+}
+.navbar{
+    background: lightblue;
+    margin-left: 70%;
+    display: flex;
+    justify-content: space-between;
+    font-size: 2rem;
+}
+.navbar a{
+    color: red;
+    text-decoration: none;
+
+}
+.navbar a:hover{
+    color: yellow;
+}
+.main{
+    background: lightblue;
+}
